@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facultativ", "facultativ\facultativ.csproj", "{417CE10D-8A22-4851-B327-1458EA7DAE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417CE10D-8A22-4851-B327-1458EA7DAE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417CE10D-8A22-4851-B327-1458EA7DAE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417CE10D-8A22-4851-B327-1458EA7DAE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417CE10D-8A22-4851-B327-1458EA7DAE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
